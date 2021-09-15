@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://zeamaria.github.io/csb-lyq1z/static/css/main.3669dae0.chunk.css",
+    "main.js": "https://zeamaria.github.io/csb-lyq1z/static/js/main.6f3f4b44.chunk.js",
+    "main.js.map": "https://zeamaria.github.io/csb-lyq1z/static/js/main.6f3f4b44.chunk.js.map",
+    "runtime-main.js": "https://zeamaria.github.io/csb-lyq1z/static/js/runtime-main.2400f3dc.js",
+    "runtime-main.js.map": "https://zeamaria.github.io/csb-lyq1z/static/js/runtime-main.2400f3dc.js.map",
+    "static/js/2.c65b6eb5.chunk.js": "https://zeamaria.github.io/csb-lyq1z/static/js/2.c65b6eb5.chunk.js",
+    "static/js/2.c65b6eb5.chunk.js.map": "https://zeamaria.github.io/csb-lyq1z/static/js/2.c65b6eb5.chunk.js.map",
+    "index.html": "https://zeamaria.github.io/csb-lyq1z/index.html",
+    "static/css/main.3669dae0.chunk.css.map": "https://zeamaria.github.io/csb-lyq1z/static/css/main.3669dae0.chunk.css.map",
+    "static/js/2.c65b6eb5.chunk.js.LICENSE.txt": "https://zeamaria.github.io/csb-lyq1z/static/js/2.c65b6eb5.chunk.js.LICENSE.txt",
+    "static/media/image1.808833ab.jpeg": "https://zeamaria.github.io/csb-lyq1z/static/media/image1.808833ab.jpeg",
+    "static/media/image2.d6e2aa99.jpeg": "https://zeamaria.github.io/csb-lyq1z/static/media/image2.d6e2aa99.jpeg",
+    "static/media/image3.68c54325.jpeg": "https://zeamaria.github.io/csb-lyq1z/static/media/image3.68c54325.jpeg",
+    "static/media/image4.a508b42c.jpeg": "https://zeamaria.github.io/csb-lyq1z/static/media/image4.a508b42c.jpeg",
+    "static/media/image5.b53cf11e.jpeg": "https://zeamaria.github.io/csb-lyq1z/static/media/image5.b53cf11e.jpeg",
+    "static/media/image6.03053c00.jpeg": "https://zeamaria.github.io/csb-lyq1z/static/media/image6.03053c00.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2400f3dc.js",
+    "static/js/2.c65b6eb5.chunk.js",
+    "static/css/main.3669dae0.chunk.css",
+    "static/js/main.6f3f4b44.chunk.js"
+  ]
+}
